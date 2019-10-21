@@ -1,0 +1,14 @@
+Entrenamiento con data en 10% --> 103 elementos
+Testeo con data 90% --> 901 elementos
+
+            Accuracy
+subdata1    0.995657
+subdata2    1.000000
+subdata3    1.000000
+subdata4    0.990228
+subdata5    1.000000
+subdata6    1.000000
+subdata7    1.000000
+subdata8    1.000000
+subdata9    1.000000
+subdata10   1.000000
