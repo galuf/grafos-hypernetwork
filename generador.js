@@ -14,8 +14,8 @@ function shuffle(array) {
 //////////////////////// Parametros a modificar
 const bits_input = 10
 const bits_target = 6
-const num_train = 50
-const nameInputFile = 'data1.csv'
+const num_train = 70
+const nameInputFile = `data-${bits_input}-${bits_target}.csv`
 //////////////////////////////////////////
 const nameOutputFile = 'SubDataSet'
 const dirTotal = `Data-${bits_input}-${bits_target}bits-${num_train}porciento`
