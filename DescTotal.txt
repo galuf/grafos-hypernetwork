@@ -1,0 +1,108 @@
+Resultados Experiemntos 10 3bits
+
+1. Entrenamiento con data en 1% --> 11 elementos
+   Testeo con data 99% --> 1013 elementos
+
+                Accuracy
+    subdata1    0.506417
+    subdata2    0.557749
+    subdata3    0.569595
+    subdata4    0.304047
+    subdata5    0.407700
+    subdata6    0.340573
+    subdata7    0.636723
+    subdata8    0.585390
+    subdata9    0.348470
+    subdata10   0.308983
+
+2. Entrenamiento con data en 5% --> 52 elementos
+   Testeo con data 95% --> 972 elementos
+
+                Accuracy
+    subdata1    0.844774
+    subdata2    0.938272
+    subdata3    1.000000
+    subdata4    0.946502
+    subdata5    1.000000
+    subdata6    0.967078
+    subdata7    0.934156
+    subdata8    0.967078
+    subdata9    1.000000
+    subdata10   0.966049
+
+3. Entrenamiento con data en 10% --> 103 elementos
+   Testeo con data 90% --> 901 elementos
+
+                Accuracy
+    subdata1    0.995657
+    subdata2    1.000000
+    subdata3    1.000000
+    subdata4    0.990228
+    subdata5    1.000000
+    subdata6    1.000000
+    subdata7    1.000000
+    subdata8    1.000000
+    subdata9    1.000000
+    subdata10   1.000000
+
+4. Entrenamiento con data en 20% --> 205 elementos
+   Testeo con data 90% --> 819 elementos
+
+                Accuracy
+    subdata1    1.000000
+    subdata2    1.000000
+    subdata3    1.000000
+    subdata4    1.000000
+    subdata5    1.000000
+    subdata6    1.000000
+    subdata7    1.000000
+    subdata8    1.000000
+    subdata9    1.000000
+    subdata10   1.000000
+
+5. Entrenamiento con data en 70% --> 717 elementos
+   Testeo con data 30% --> 307 elementos
+
+                 Accuracy
+    subdata1    1.000000
+    subdata2    1.000000
+    subdata3    1.000000
+    subdata4    1.000000
+    subdata5    1.000000
+    subdata6    1.000000
+    subdata7    1.000000
+    subdata8    1.000000
+    subdata9    1.000000
+    subdata10   1.000000
+
+6. Entrenamiento con data en 80% --> 819 elementos
+   Testeo con data 20% --> 205 elementos
+
+                 Accuracy
+    subdata1    1.000000
+    subdata2    1.000000
+    subdata3    1.000000
+    subdata4    1.000000
+    subdata5    1.000000
+    subdata6    1.000000
+    subdata7    1.000000
+    subdata8    1.000000
+    subdata9    1.000000
+    subdata10   1.000000
+
+Resultados Experiemntos 10 6bits
+
+1. Entrenamiento con data en 70% -->  717 elementos
+   Testeo con data 30% --> 307 elementos
+
+                Accuracy
+    subdata1    1.000000
+    subdata2    0.719870    entrenado al 96% 154419epocas
+    subdata3    1.000000
+    subdata4    0.726384    entrenado al 96% 174214epocas
+    subdata5    0.661238    entrenado al 95% 3100epocas
+    subdata6    0.332248    entrenado al 90% 3000epocas
+    subdata7    0.439739    entrenado al 92% 4920epocas
+    subdata8    1.000000
+    subdata9    1.000000
+    subdata10   1.000000

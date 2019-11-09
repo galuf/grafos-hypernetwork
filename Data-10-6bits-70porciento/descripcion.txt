@@ -3,9 +3,9 @@ Testeo con data 30% --> 307 elementos
 
             Accuracy
 subdata1    1.000000
-subdata2    0.557749v
-subdata3    0.569595v
-subdata4    0.304047v
+subdata2    0.719870    entrenado al 96% 154419epocas
+subdata3    1.000000
+subdata4    0.726384    entrenado al 96% 174214epocas
 subdata5    0.407700v
 subdata6    0.340573v
 subdata7    0.636723v
