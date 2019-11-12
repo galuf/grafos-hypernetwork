@@ -1,0 +1,14 @@
+Entrenamiento con data en 70% -->  717 elementos
+Testeo con data 30% --> 307 elementos
+
+            Accuracy
+subdata1    1.000000
+subdata2    1.000000
+subdata3    1.000000
+subdata4    1.000000
+subdata5    1.000000
+subdata6    1.000000
+subdata7    1.000000 
+subdata8    1.000000
+subdata9    1.000000
+subdata10   1.000000

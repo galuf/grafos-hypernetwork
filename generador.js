@@ -13,8 +13,8 @@ function shuffle(array) {
 }
 //////////////////////// Parametros a modificar
 const bits_input = 10
-const bits_target = 6
-const num_train = 50
+const bits_target = 3
+const num_train = 70
 const nameInputFile = `data-${bits_input}-${bits_target}.csv`
 //////////////////////////////////////////
 const nameOutputFile = 'SubDataSet'
@@ -23,7 +23,7 @@ fs.readFile(nameInputFile, 'utf8', (err, data) => {
   if (err) console.log('error')
   else {
     const lines = data.split('\n')
-    const time = 1
+    const time = 10
     const subdata1Len = Math.floor(((100-num_train)/100)*lines.length)
     fs.mkdirSync(dirTotal)
     for (let i = 1; i <= time; i++) {
